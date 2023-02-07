@@ -1,4 +1,4 @@
-# Ali Yazdanifar - Omid Talebi
+# Ali Yazdanifar
 import os
 import time
 # import networkx as nx
